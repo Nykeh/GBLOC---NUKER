@@ -29,25 +29,7 @@ Uses async batching to reduce API cooldown issues
 Clean and optimized code, easy to modify
 
 
-How to Use
+# Created by Nikz/Nyke
 
-1. Clone the repository:
-
-git clone https://github.com/Nykeh/GBLOC---NUKER.git
-
-
-2. Install dependencies:
-
-npm install
-
-3. Create a config.json file:
-
-4. Run the bot:
-
-node index.js
-
-
-Created by Nikz/Nyke
-
-GBLOC ON TOP
+# GBLOC ON TOP
 For help, customization, or testing tips, feel free to reach out.
