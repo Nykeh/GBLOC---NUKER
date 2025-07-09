@@ -34,21 +34,13 @@ How to Use
 1. Clone the repository:
 
 git clone https://github.com/Nykeh/GBLOC---NUKER.git
-cd gbloc-nuker
 
 
 2. Install dependencies:
 
 npm install
 
-
 3. Create a config.json file:
-
-{
-  "token": "TOKEN MO YA",
-  "targetGuildId": "TEST SERVER ID MO YA"
-}
-
 
 4. Run the bot:
 
