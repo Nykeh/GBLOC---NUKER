@@ -29,7 +29,7 @@ Uses async batching to reduce API cooldown issues
 Clean and optimized code, easy to modify
 
 
-# Created by Nikz/Nyke
+**Created by Nikz/Nyke**
 
-# GBLOC ON TOP
+GBLOC ON TOP
 For help, customization, or testing tips, feel free to reach out.
